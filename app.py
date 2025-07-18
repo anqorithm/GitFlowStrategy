@@ -6,7 +6,7 @@ class Calculator:
         return a - b
 
     def multiply(self, a, b):
-        pass
+        return
 
     def divide(self, a, b):
         pass
