@@ -2,7 +2,7 @@
 
 # Intro
 
-```mermid
+```mermaid
 gitGraph
     commit
     branch develop
